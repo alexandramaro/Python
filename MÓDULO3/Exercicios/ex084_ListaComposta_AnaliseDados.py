@@ -5,7 +5,7 @@ b) Uma listagem com as pessoas mais pesadas.
 c) Uma listagem com as pessoas mais leves."""
 
 temp = []  # lista temporária que guarda os dados temporáriamente antes de ir para a lista principal.
-princ = []  # lista principal
+princ = []  #  lista principal
 mai = men = 0
 while True:
     temp.append(str(input('Nome: ')))
