@@ -7,7 +7,7 @@ from time import sleep
 lista = list()
 jogos = list()
 print('-' * 30)
-print('       JOGA NO TOTOLOTO')
+print(f'{"JOGA NO TOTOLOTO":^30}')
 print('-' * 30)
 quant = int(input('Quantos jogos quer sortear? '))
 tot = 1
