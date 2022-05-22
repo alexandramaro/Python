@@ -23,7 +23,7 @@ while True:
     if resp in 'Nn':
         break
 print('-=' * 30)
-# a) Quantas pessoas foram registadas?
+# a)  Quantas pessoas foram registadas?
 print(f'Ao todo, você registou {len(princ)} pessoas.')
 # b) Uma listagem com as pessoas mais pesadas.
 print(f'O maior peso foi de {mai}kg. Peso de ', end='')
