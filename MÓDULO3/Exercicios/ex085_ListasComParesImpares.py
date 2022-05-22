@@ -1,5 +1,5 @@
-"""Crie um programa onde o usuário possa digitar 7 valores numéricos e registe-os
-em uma lista única que mantenha separados os valores pares e ímpares.
+"""Crie um programa onde o utilizador possa escrever 7 números inteiros e registe-os
+numa lista única que mantenha separados os valores pares e ímpares.
 No final mostre os valores pares e os ímpares em ordem crescente."""
 
 num = [[], []]  # uma lista com 2 listas internas, para par e ímpar
