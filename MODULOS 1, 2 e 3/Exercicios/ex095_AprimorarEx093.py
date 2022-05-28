@@ -22,8 +22,8 @@ while True:
         print('ERRO! Responda apenas S ou N.')
     if resp == 'N':
         break
-# Mostrar resultados
 print('-=' * 30)
+# Mostrar resultados
 print('cod ', end='')
 for i in jogador.keys():
     print(f'{i:<15}', end='')
