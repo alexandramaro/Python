@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5e89bf3-a637-4a0a-984d-2887d112516b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex099_FuncaoMaior.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex100_FuncaoSortearSomar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex098_FuncaoContador.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex098_FuncaoContador.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,28 +36,7 @@
     "last_opened_file_path": "C:/Users/alexa/OneDrive - Instituto do Emprego e Formação Profissional/Programador Informática/Guanabara_Python/MÓDULO3/Aulas"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.ex099_FuncaoMaior">
-    <configuration name="ex095_AprimorarEx093" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Exercicios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex095_AprimorarEx093.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.ex100_FuncaoSortearSomar">
     <configuration name="ex096_FuncaoCalculaArea" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,13 +121,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex100_FuncaoSortearSomar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex100_FuncaoSortearSomar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex100_FuncaoSortearSomar" />
         <item itemvalue="Python.ex099_FuncaoMaior" />
         <item itemvalue="Python.ex098_FuncaoContador" />
         <item itemvalue="Python.ex097_PrintEspecial" />
         <item itemvalue="Python.ex096_FuncaoCalculaArea" />
-        <item itemvalue="Python.ex095_AprimorarEx093" />
       </list>
     </recent_temporary>
   </component>
