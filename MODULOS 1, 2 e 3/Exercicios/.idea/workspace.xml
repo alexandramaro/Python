@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5e89bf3-a637-4a0a-984d-2887d112516b" name="Changes" comment="" />
+    <list default="true" id="d5e89bf3-a637-4a0a-984d-2887d112516b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/3x102_FuncaoParaFatorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,8 +36,8 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/alexa/OneDrive - Instituto do Emprego e Formação Profissional/Programador Informática/Guanabara_Python/MÓDULO3/Aulas&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.ex101_FuncoesParaVotacoes">
-    <configuration name="ex097_PrintEspecial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.3x102_FuncaoParaFatorial">
+    <configuration name="3x102_FuncaoParaFatorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,7 +49,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex097_PrintEspecial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3x102_FuncaoParaFatorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3x102_FuncaoParaFatorial" />
         <item itemvalue="Python.ex101_FuncoesParaVotacoes" />
         <item itemvalue="Python.ex100_FuncaoSortearSomar" />
         <item itemvalue="Python.ex099_FuncaoMaior" />
         <item itemvalue="Python.ex098_FuncaoContador" />
-        <item itemvalue="Python.ex097_PrintEspecial" />
       </list>
     </recent_temporary>
   </component>
