@@ -1,0 +1,1 @@
+from ex111_TransformarModulosEmPacotes.utilidadesCeV import moeda, dado
