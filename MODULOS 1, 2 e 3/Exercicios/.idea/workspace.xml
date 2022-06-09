@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5e89bf3-a637-4a0a-984d-2887d112516b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex111_TransformarModulosEmPacotes/teste.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex111_TransformarModulosEmPacotes/utilidadesCeV/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex111_TransformarModulosEmPacotes/utilidadesCeV/dado/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex111_TransformarModulosEmPacotes/utilidadesCeV/moeda/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex112_EntradaDadosMonetarios/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex112_EntradaDadosMonetarios/utilidadesCeV/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex112_EntradaDadosMonetarios/utilidadesCeV/dado/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex112_EntradaDadosMonetarios/utilidadesCeV/moeda/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex110_ReduzindoAindaMaiso109/moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex110_ReduzindoAindaMaiso109/moeda.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
       <recent name="D:\Guanabara-GitHub\MeusProjetos\Python\MODULOS 1, 2 e 3\Exercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.teste (4)">
+  <component name="RunManager" selected="Python.teste (5)">
     <configuration name="teste (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="teste (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex107" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex112_EntradaDadosMonetarios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex107/teste.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex112_EntradaDadosMonetarios/teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.teste (5)" />
         <item itemvalue="Python.teste (4)" />
         <item itemvalue="Python.teste (3)" />
         <item itemvalue="Python.teste (2)" />
         <item itemvalue="Python.teste (1)" />
-        <item itemvalue="Python.teste" />
       </list>
     </recent_temporary>
   </component>
