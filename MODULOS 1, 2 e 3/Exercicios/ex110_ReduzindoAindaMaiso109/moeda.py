@@ -1,15 +1,15 @@
-""" ex109: Modifique as funções que foram criadas no desafio 107 para que elas aceitem
-um parâmetro a mais, informando se o valor retornado por elas, vai ou não ser formatado
-pela função moeda(), desenvolvida no desafio 108."""
+""" ex110: Adicione ao módulo modeda.py criado nos desafios anteriores, uma função
+chamada resumo(), que mostre na tela algumas informações geradas pelas funções que
+já temos no módulo criado até aqui."""
 
 
 def aumentar(preco=0, taxa=0, formato=False):
     """
-
-    :param preco: €
-    :param taxa: 10% e 13%
-    :param formato: ,00€
-    :return: res if
+    → Calcula o aumento de um determinado preço, retornando o resultado com ou sem formatação.
+    :param preco: € o preço que se quer reajustar
+    :param taxa: a percentagem do aumento (10% e 13%)
+    :param formato: Saída formatada (,00€) ou não?
+    :return: o valor reajustado, com ou sem formato.
     """
     res = preco + (preco * taxa / 100)
     return res if formato is False else moeda(res)
