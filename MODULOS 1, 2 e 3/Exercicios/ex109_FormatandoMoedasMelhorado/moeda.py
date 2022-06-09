@@ -5,11 +5,11 @@ pela função moeda(), desenvolvida no desafio 108."""
 
 def aumentar(preco=0, taxa=0, formato=False):
     """
-
-    :param preco: €
-    :param taxa: 10% e 13%
-    :param formato: ,00€
-    :return: res if
+    → Calcula o aumento de um determinado preço, retornando o resultado com ou sem formatação.
+    :param preco: € o preço que se quer reajustar
+    :param taxa: a percentagem do aumento (10% e 13%)
+    :param formato: Saída formatada (,00€) ou não?
+    :return: o valor reajustado, com ou sem formato.
     """
     res = preco + (preco * taxa / 100)
     return res if formato is False else moeda(res)
