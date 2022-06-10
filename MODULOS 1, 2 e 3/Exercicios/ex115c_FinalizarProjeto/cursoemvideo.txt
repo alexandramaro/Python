@@ -1,5 +1,3 @@
-Ana;22
-Gustavo;41
+José;35
 Alexandra;43
-Pedro;55
-Rui;25
+Maria;85

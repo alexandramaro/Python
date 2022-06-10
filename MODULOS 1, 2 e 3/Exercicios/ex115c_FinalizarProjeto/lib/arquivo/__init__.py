@@ -1,4 +1,4 @@
-from ex115b_Arquivos.lib.interface import *
+from ex115c_FinalizarProjeto.lib.interface import *
 
 def arquivoExiste(nome):
     try:
@@ -15,7 +15,7 @@ def criarArquivo(nome):
         a = open(nome, 'wt+')       # wt → write text   + → cria ficheiro
         a.close()
     except:
-        print('Houve um erro na criação do arquivo!')
+        print('Houve um ERRO na criação do arquivo!')
     else:
         print(f'Arquivo {nome} criado com sucesso!')
 
@@ -24,7 +24,27 @@ def lerArquivo(nome):
     try:
         a = open(nome, 'rt')
     except:
-        print('Erro ao ler o arquivo!')
+        print('ERRO ao ler o arquivo!')
     else:
         cabeçalho('PESSOAS REGISTADAS')
-        print(a.read())
+        for linha in a:
+            dado = linha.split(';')
+            dado[1] = dado[1].replace('\n', '')
+            print(f'{dado[0]:<30}{dado[1]:>3} anos')
+    finally:
+        a.close()
+
+
+def registar(arq, nome='desconhecido', idade=0):
+    try:
+        a = open(arq, 'at')     # at ☻ append text
+    except:
+        print('Houve um ERRO na abertura do arquivo!')
+    else:
+        try:
+            a.write(f'{nome};{idade}\n')
+        except:
+            print('Houve um ERRO a escrever os dados!')
+        else:
+            print(f'Novo registo de {nome} adicionado.')
+            a.close()

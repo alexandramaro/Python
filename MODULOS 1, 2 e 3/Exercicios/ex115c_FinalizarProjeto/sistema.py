@@ -1,5 +1,5 @@
-from ex115b_Arquivos.lib.interface import *
-from ex115b_Arquivos.lib.arquivo import *
+from ex115c_FinalizarProjeto.lib.interface import *
+from ex115c_FinalizarProjeto.lib.arquivo import *
 from time import sleep
 
 arq = 'cursoemvideo.txt'
@@ -14,7 +14,10 @@ while True:
         lerArquivo(arq)
     elif resposta == 2:
         # Opção de registar uma nnova pessoa.
-        cabeçalho('Opção 2')
+        cabeçalho('NOVO REGISTO')
+        nome = str(input('Nome: '))
+        idade = leiaInt('Idade: ')
+        registar(arq, nome, idade)
     elif resposta == 3:
         # Opção de sair do sistema.
         cabeçalho('Saindo do sistema... Até logo!')
