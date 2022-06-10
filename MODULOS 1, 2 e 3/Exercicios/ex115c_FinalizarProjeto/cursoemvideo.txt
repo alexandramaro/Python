@@ -1,0 +1,5 @@
+Ana;22
+Gustavo;41
+Alexandra;43
+Pedro;55
+Rui;25
